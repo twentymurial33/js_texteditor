@@ -1,0 +1,29 @@
+body {
+  color: #333;
+  font-weight: 100;
+  max-width: 50em;
+  margin: 0 auto;
+  /* background-color: azure; */
+}
+
+div:focus {
+  outline: none;
+}
+
+#heading {
+  padding-top: 30px;
+  padding: 100px;
+  margin-top: 10px;
+  background-color: blanchedalmond;
+}
+
+#content {
+  padding: 100px;
+  margin-top: 10px;
+  background-color: burlywood;
+}
+#cont2 {
+  padding: 100px;
+  margin-top: 10px;
+  background-color: darkcyan;
+}
